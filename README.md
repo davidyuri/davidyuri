@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm David Yuri ⚡
 
-<!--
-**davidyuri/davidyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Machine learning enthusiast.
 
-Here are some ideas to get you started:
+## About me
+<p>
+  <img width="200" alt="hello!" align="left" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ucxd3vpt5am3xeh5v8c1n0qhd80gi4hxib6lnwsa&rid=giphy.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming ❤️| Math 💙| Games 💚
+
+I'm from Parnamirim - Brazil  
+
+I have experience with C++ | Javascript  
+
+I'm interested in data science, machine learning and web dev.
+
+
