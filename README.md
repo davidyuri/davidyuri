@@ -1,6 +1,6 @@
 ## Hi, I'm David Yuri ⚡
 
-Computer Science Student | Machine learning enthusiast.
+Information technology Student | Machine learning enthusiast.
 
 ## About me
 <p>
