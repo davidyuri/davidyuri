@@ -13,6 +13,6 @@ I'm from Parnamirim - Brazil
 
 I have experience with C++ | Javascript  
 
-I'm interested in data science, machine learning and web dev.
+I'm interested in web dev.
 
 
